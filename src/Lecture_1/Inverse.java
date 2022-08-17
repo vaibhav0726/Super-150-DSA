@@ -1,4 +1,4 @@
-package Basics;
+package Lecture_1;
 
 //https://hack.codingblocks.com/app/contests/3446/698/problem
 //Take the following as input.
