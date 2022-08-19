@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af057d2e-7702-4e5e-8ff9-6dd0691c375b" name="Changes" comment="Check_prime">
-      <change afterPath="$PROJECT_DIR$/src/coding_blocks_questions/Hollow_rhombus_pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding_blocks_questions/print_primes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
       <workItem from="1660900886181" duration="975000" />
       <workItem from="1660910222813" duration="2253000" />
       <workItem from="1660915659208" duration="4221000" />
+      <workItem from="1660925695574" duration="639000" />
     </task>
     <task id="LOCAL-00001" summary="Solved Inverse question">
       <created>1660726460821</created>
