@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af057d2e-7702-4e5e-8ff9-6dd0691c375b" name="Changes" comment="pattern triangle" />
+    <list default="true" id="af057d2e-7702-4e5e-8ff9-6dd0691c375b" name="Changes" comment="shopping_game">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +49,8 @@
       <workItem from="1660729867625" duration="2074000" />
       <workItem from="1660809130880" duration="7085000" />
       <workItem from="1660900886181" duration="975000" />
+      <workItem from="1660910222813" duration="2253000" />
+      <workItem from="1660915659208" duration="342000" />
     </task>
     <task id="LOCAL-00001" summary="Solved Inverse question">
       <created>1660726460821</created>
@@ -90,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660901248807</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fibonacci_pattern">
+      <created>1660910334031</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660910334031</updated>
+    </task>
+    <task id="LOCAL-00008" summary="shopping_game">
+      <created>1660910446580</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660910446580</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +130,8 @@
     <MESSAGE value="Solved Different Star Questions" />
     <MESSAGE value="Lecture-2 typeCasting" />
     <MESSAGE value="pattern triangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="pattern triangle" />
+    <MESSAGE value="Fibonacci_pattern" />
+    <MESSAGE value="shopping_game" />
+    <option name="LAST_COMMIT_MESSAGE" value="shopping_game" />
   </component>
 </project>
