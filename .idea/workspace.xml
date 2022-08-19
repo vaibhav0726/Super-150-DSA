@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af057d2e-7702-4e5e-8ff9-6dd0691c375b" name="Changes" comment="Lecture-2 typeCasting">
-      <change afterPath="$PROJECT_DIR$/src/Lecture_2/conversion_with_different_base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_2/typecasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding_blocks_questions/patter_triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_1/starPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_1/starPrinting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,8 @@
       <updated>1660715143817</updated>
       <workItem from="1660715162118" duration="7927000" />
       <workItem from="1660729867625" duration="2074000" />
-      <workItem from="1660809130880" duration="5874000" />
+      <workItem from="1660809130880" duration="7085000" />
+      <workItem from="1660900886181" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="Solved Inverse question">
       <created>1660726460821</created>
@@ -80,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660728114607</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lecture-2 typeCasting">
+      <created>1660823900455</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660823900456</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
