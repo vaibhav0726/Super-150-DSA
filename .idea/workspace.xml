@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af057d2e-7702-4e5e-8ff9-6dd0691c375b" name="Changes" comment="count_digits" />
+    <list default="true" id="af057d2e-7702-4e5e-8ff9-6dd0691c375b" name="Changes" comment="print_inverse">
+      <change afterPath="$PROJECT_DIR$/src/coding_blocks_questions/Odd_and_Even_back_in_Delhi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +51,7 @@
       <workItem from="1660809130880" duration="7085000" />
       <workItem from="1660900886181" duration="975000" />
       <workItem from="1660910222813" duration="2253000" />
-      <workItem from="1660915659208" duration="1947000" />
+      <workItem from="1660915659208" duration="2878000" />
     </task>
     <task id="LOCAL-00001" summary="Solved Inverse question">
       <created>1660726460821</created>
@@ -134,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660917241256</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="print_inverse">
+      <created>1660918084244</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1660918084244</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +172,7 @@
     <MESSAGE value="inverse_of_a_number" />
     <MESSAGE value="sum_of_odd_placed_and_even_placed_digits" />
     <MESSAGE value="count_digits" />
-    <option name="LAST_COMMIT_MESSAGE" value="count_digits" />
+    <MESSAGE value="print_inverse" />
+    <option name="LAST_COMMIT_MESSAGE" value="print_inverse" />
   </component>
 </project>
