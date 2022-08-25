@@ -25,7 +25,7 @@ public class array_demo {
         int[] arr3 = {1,2,3,4,5};
         System.out.println(arr3[0]+" "+arr3[3]);
         swap(arr, 0, 1);
-        System.out.println(arr,0 ,1);
+        System.out.println(arr3[0]+" "+arr3[1]);
     }
     public static void swap(int[] arr, int i, int j){
         int temp = arr[i];
