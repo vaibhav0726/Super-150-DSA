@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af057d2e-7702-4e5e-8ff9-6dd0691c375b" name="Changes" comment="SimpleInput">
-      <change afterPath="$PROJECT_DIR$/src/Lecture_3/function_demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_4/array_demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="af057d2e-7702-4e5e-8ff9-6dd0691c375b" name="Changes" comment="Lecture-4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_1/starPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_1/starPrinting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_4/array_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_4/array_demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,7 @@
       <workItem from="1660925695574" duration="3641000" />
       <workItem from="1660974060685" duration="4329000" />
       <workItem from="1661330219203" duration="2988000" />
-      <workItem from="1661413472745" duration="3130000" />
+      <workItem from="1661413472745" duration="8277000" />
     </task>
     <task id="LOCAL-00001" summary="Solved Inverse question">
       <created>1660726460821</created>
@@ -228,7 +225,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660976898396</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Lecture-4">
+      <created>1661416918908</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1661416918908</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Lecture-4">
+      <created>1661416998491</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1661416998491</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +279,7 @@
     <MESSAGE value="Pattern_HourGlass" />
     <MESSAGE value="ChewbaccaAndNumber" />
     <MESSAGE value="SimpleInput" />
-    <option name="LAST_COMMIT_MESSAGE" value="SimpleInput" />
+    <MESSAGE value="Lecture-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture-4" />
   </component>
 </project>
