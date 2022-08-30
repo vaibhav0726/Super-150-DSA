@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af057d2e-7702-4e5e-8ff9-6dd0691c375b" name="Changes" comment="Lecture-4">
+    <list default="true" id="af057d2e-7702-4e5e-8ff9-6dd0691c375b" name="Changes" comment="Lecture-4 array demo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_4/array_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_4/array_demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <workItem from="1660925695574" duration="3641000" />
       <workItem from="1660974060685" duration="4329000" />
       <workItem from="1661330219203" duration="2988000" />
-      <workItem from="1661413472745" duration="8277000" />
+      <workItem from="1661413472745" duration="8907000" />
     </task>
     <task id="LOCAL-00001" summary="Solved Inverse question">
       <created>1660726460821</created>
@@ -239,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661416998491</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Lecture-4 array demo">
+      <created>1661433537015</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1661433537015</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,6 +286,7 @@
     <MESSAGE value="ChewbaccaAndNumber" />
     <MESSAGE value="SimpleInput" />
     <MESSAGE value="Lecture-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture-4" />
+    <MESSAGE value="Lecture-4 array demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture-4 array demo" />
   </component>
 </project>
