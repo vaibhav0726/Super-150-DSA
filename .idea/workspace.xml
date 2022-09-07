@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af057d2e-7702-4e5e-8ff9-6dd0691c375b" name="Changes" comment="Lecture-5 Binary Search">
-      <change afterPath="$PROJECT_DIR$/src/Lecture_5/First_Bad_Version.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_5/square_root_just_small.java" afterDir="false" />
+    <list default="true" id="af057d2e-7702-4e5e-8ff9-6dd0691c375b" name="Changes" comment="square root just small">
+      <change afterPath="$PROJECT_DIR$/src/Lecture_5/Aggrcow_spoj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_6/Divisible_Subarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_6/spiral_print_2D_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,8 @@
       <workItem from="1660974060685" duration="4329000" />
       <workItem from="1661330219203" duration="2988000" />
       <workItem from="1661413472745" duration="8907000" />
-      <workItem from="1662018194013" duration="2964000" />
+      <workItem from="1662018194013" duration="5930000" />
+      <workItem from="1662531042389" duration="5609000" />
     </task>
     <task id="LOCAL-00001" summary="Solved Inverse question">
       <created>1660726460821</created>
@@ -255,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662019382279</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="square root just small">
+      <created>1662021831452</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1662021831452</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,7 +282,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Solved Inverse question" />
     <MESSAGE value="Solved Different Star Questions" />
     <MESSAGE value="Lecture-2 typeCasting" />
     <MESSAGE value="pattern triangle" />
@@ -298,6 +306,7 @@
     <MESSAGE value="Lecture-4" />
     <MESSAGE value="Lecture-4 array demo" />
     <MESSAGE value="Lecture-5 Binary Search" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture-5 Binary Search" />
+    <MESSAGE value="square root just small" />
+    <option name="LAST_COMMIT_MESSAGE" value="square root just small" />
   </component>
 </project>
