@@ -2,7 +2,6 @@ package coding_blocks_questions;
 
 import java.util.Scanner;
 
-
 //https://hack.codingblocks.com/app/contests/3446/919/problem
 public class Check_prime {
     public static void main(String args[]) {
