@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af057d2e-7702-4e5e-8ff9-6dd0691c375b" name="Changes" comment="square root just small">
+    <list default="true" id="af057d2e-7702-4e5e-8ff9-6dd0691c375b" name="Changes" comment="binary search">
       <change afterPath="$PROJECT_DIR$/src/Lecture_5/Aggrcow_spoj.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Lecture_6/Divisible_Subarrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Lecture_6/spiral_print_2D_Array.java" afterDir="false" />
@@ -25,6 +25,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2e850c82-cf49-440a-b91c-4c5c368dfd6a" />
+        <option name="url" value="https://github.com/vaibhav0726/Super-150-DSA.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -39,18 +47,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/SSD/Super-150-DSA",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "actions.on.save"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/SSD/Super-150-DSA&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,6 +82,7 @@
       <workItem from="1664390379244" duration="886000" />
       <workItem from="1664391413605" duration="196000" />
       <workItem from="1664396481147" duration="6770000" />
+      <workItem from="1664441419269" duration="409000" />
     </task>
     <task id="LOCAL-00001" summary="Solved Inverse question">
       <created>1660726460821</created>
@@ -278,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662021831452</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="binary search">
+      <created>1664441818972</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1664441818972</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +312,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Solved Different Star Questions" />
     <MESSAGE value="Lecture-2 typeCasting" />
     <MESSAGE value="pattern triangle" />
     <MESSAGE value="Fibonacci_pattern" />
@@ -321,6 +336,7 @@
     <MESSAGE value="Lecture-4 array demo" />
     <MESSAGE value="Lecture-5 Binary Search" />
     <MESSAGE value="square root just small" />
-    <option name="LAST_COMMIT_MESSAGE" value="square root just small" />
+    <MESSAGE value="binary search" />
+    <option name="LAST_COMMIT_MESSAGE" value="binary search" />
   </component>
 </project>
