@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af057d2e-7702-4e5e-8ff9-6dd0691c375b" name="Changes" comment="binary search">
-      <change afterPath="$PROJECT_DIR$/src/Lecture_5/Aggrcow_spoj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_6/Divisible_Subarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_6/spiral_print_2D_Array.java" afterDir="false" />
+    <list default="true" id="af057d2e-7702-4e5e-8ff9-6dd0691c375b" name="Changes" comment="recursion">
+      <change afterPath="$PROJECT_DIR$/src/Lecture_10/generate_paranthesis.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_10/lexicalOrder.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_10/towerOfHanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_11/coin_change_backtracking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_11/queen_combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_11/queen_permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_12/letter_tile_possibilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_12/palindrom_partitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_13/Rat_In_Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_13/combination_sumII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_13/word_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_14/n_queen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +93,15 @@
       <workItem from="1664391413605" duration="196000" />
       <workItem from="1664396481147" duration="6770000" />
       <workItem from="1664441419269" duration="1086000" />
+      <workItem from="1664482799421" duration="5118000" />
+      <workItem from="1665563200444" duration="542000" />
+      <workItem from="1665564101965" duration="4925000" />
+      <workItem from="1665648280531" duration="2675000" />
+      <workItem from="1665653555029" duration="1365000" />
+      <workItem from="1666166107787" duration="2570000" />
+      <workItem from="1666252837541" duration="981000" />
+      <workItem from="1666460680670" duration="1805000" />
+      <workItem from="1666691448942" duration="666000" />
     </task>
     <task id="LOCAL-00001" summary="Solved Inverse question">
       <created>1660726460821</created>
@@ -302,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664441875767</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="recursion">
+      <created>1664482884040</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1664482884040</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,7 +345,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lecture-2 typeCasting" />
     <MESSAGE value="pattern triangle" />
     <MESSAGE value="Fibonacci_pattern" />
     <MESSAGE value="shopping_game" />
@@ -345,6 +369,18 @@
     <MESSAGE value="Lecture-5 Binary Search" />
     <MESSAGE value="square root just small" />
     <MESSAGE value="binary search" />
-    <option name="LAST_COMMIT_MESSAGE" value="binary search" />
+    <MESSAGE value="recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="recursion" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lecture_11/coin_change_backtracking.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
